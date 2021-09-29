@@ -1,0 +1,12 @@
+{
+    "name": "xKANGA Token",
+    "website": "https://kanga.finance",
+    "source_code": "https://etherscan.io/token/0x688a7C94d7be50289FFDb648C8F9e38ac55970F7",
+    "description": "Stake Kanga to get xKanga",
+    "explorer": "https://etherscan.io/token/0x0x688a7C94d7be50289FFDb648C8F9e38ac55970F7",
+    "type": "ERC20",
+    "symbol": "XKANGA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x688a7C94d7be50289FFDb648C8F9e38ac55970F7"
+}
